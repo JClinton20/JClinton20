@@ -9,6 +9,28 @@ I'm an excited young developer and Information Technology student at The Univers
   <li>Creating applications to solve real world problems with technology</li>
 </ul>
 
+### 🧑🏽‍💻 I utilize these Tools and Frameworks:
+
+<ul>
+  <li> <strong> Programming Languages: </strong> JavaScrpit, Java, Python, HTML, PHP, CSS </li>
+  <li> <strong> Frameworks: </strong> Flask, Jinja, , WordPress </li>
+  <li> <strong> Databases: </strong> MySQL </li>
+</ul>
+
+### 🌱 I’m currently learning:
+
+<ul>
+  <li> Retrieval Augmented Generation </li>
+  <li> PostgreSQL </li>
+  <li>  </li>
+
+</ul>
+
+### 💬 How to reach me:
+<ul>
+  <li> [LinkedIn](https://www.linkedin.com/in/jeremiah-clinton-8369542a7/) </li>
+</ul>
+
 <!--
 **JClinton20/JClinton20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
