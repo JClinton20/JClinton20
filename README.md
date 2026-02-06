@@ -20,7 +20,7 @@ I'm an excited young developer and Information Technology student at The Univers
 
 ### 💬 How to reach me:
 <ul>
-  <li> [LinkedIn](https://www.linkedin.com/in/jeremiah-clinton-8369542a7/) </li>
+  <li>[LinkedIn: ](https://www.linkedin.com/in/jeremiah-clinton-8369542a7/)</li>
 </ul>
 
 <!--
