@@ -17,14 +17,6 @@ I'm an excited young developer and Information Technology student at The Univers
   <li> <strong> Databases: </strong> MySQL </li>
 </ul>
 
-### 🌱 I’m currently learning:
-
-<ul>
-  <li> Retrieval Augmented Generation </li>
-  <li> PostgreSQL </li>
-  <li>  </li>
-
-</ul>
 
 ### 💬 How to reach me:
 <ul>
