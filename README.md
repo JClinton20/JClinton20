@@ -1,6 +1,14 @@
 ## Hi there! 👋 I'm Jeremiah Clinton
 
-I'm an excited young developer and Information Technology undergraduate at The University of the West Indies.
+I'm an excited young developer and Information Technology student at The University of the West Indies.
+
+### 🔭 I’m currently working on:
+
+<ul>
+  <li>Creating responsive chatbot assistants using RAG</li>
+  <li>Creating applications to solve real world problems with technology</li>
+</ul>
+
 <!--
 **JClinton20/JClinton20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
