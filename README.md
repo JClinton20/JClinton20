@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there! 👋 I'm Jeremiah Clinton
 
+I'm an excited young developer and Information Technology undergraduate at The University of the West Indies.
 <!--
 **JClinton20/JClinton20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
