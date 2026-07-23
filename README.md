@@ -5,16 +5,17 @@ I'm an excited young developer and Information Technology student at The Univers
 ### 🔭 I’m currently working on:
 
 <ul>
-  <li>Creating responsive chatbot assistants using RAG</li>
-  <li>Creating applications to solve real world problems with technology</li>
+  <li>Leveraging Artifical Intelligence API's to automate workflows</li>
+  <li>Creating modern applications that use artificial intelligence to help businesses automate their work</li>
 </ul>
 
 ### 🧑🏽‍💻 I utilize these Tools and Frameworks:
 
 <ul>
   <li> <strong> Programming Languages: </strong> JavaScrpit, Java, Python, HTML, PHP, CSS </li>
-  <li> <strong> Frameworks: </strong> Flask, Jinja, , WordPress </li>
+  <li> <strong> Frameworks: </strong> Flask, Jinja, WordPress </li>
   <li> <strong> Databases: </strong> MySQL </li>
+  <li> <strong> AI Tools: </strong> Claude Code, ChatGPT, Gemini </li>
 </ul>
 
 
