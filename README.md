@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Jeremiah Clinton
 
-I'm an excited young developer and Information Technology student at The University of the West Indies.
+I'm an enthusiastic developer and Information Technology graduate from The University of the West Indies.
 
 ### 🔭 I’m currently working on:
 
